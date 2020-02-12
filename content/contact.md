@@ -1,5 +1,7 @@
 ---
 title: Contact
+subtitle: Keep in touch !
+img_path: /images/intro.jpg
 menu:
   main:
     name: Contact
@@ -7,4 +9,3 @@ menu:
 layout: contact
 ---
 
-To get in touch fill the form below.
