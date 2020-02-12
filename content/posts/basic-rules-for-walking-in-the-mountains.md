@@ -6,7 +6,7 @@ content_img_path: /images/gerti-gjuzi-RxSyaFK3bls-unsplash.jpg
 excerpt: ''
 layout: post
 ---
-
+Texte en cours de rédaction, ici très bientôt :-)
 
 
 
