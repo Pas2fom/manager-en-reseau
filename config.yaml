@@ -8,12 +8,12 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
   header:
-    bg: dark
+    bg: light
     has_nav: true
     has_social: true
     profile_img: /images/photomaton titi.jpg
     tagline: ''
-    title: Manager et coopérer en réseau
+    title: 'Manager et coopérer en réseau, ça s''apprend !'
   layout_style: default
   palette: orange
 disableKinds:
