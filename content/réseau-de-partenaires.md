@@ -9,4 +9,4 @@ Conseil en qualité de coopération au travail :  [Qualia management](https://qu
 
 Coopérer en s'entrainant à penser ensemble : [](https://qualia-management.com)[cafesphilo.com](www.cafesphilo.com)
 
-Développer le management et la coopération transversale avec la Process Com : [Léna Badach Formatrice Coach experte certifiée Process Communication](https://www.linkedin.com/in/lenabadach/)
+Développer le management et la coopération transversales avec la Process Com : [Léna Badach Formatrice Coach experte certifiée Process Communication](https://www.linkedin.com/in/lenabadach/)
