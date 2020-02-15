@@ -11,7 +11,7 @@ params:
     bg: light
     has_nav: true
     has_social: true
-    profile_img: /images/photomaton titi.jpg
+    profile_img: ''
     tagline: L'art de manager et coopérer en transverse
     title: 'Manager et coopérer en réseau '
   layout_style: default
