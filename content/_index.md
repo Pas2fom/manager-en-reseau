@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Bienvenue
 sections:
   - component: hero_block.html
     content: >-
