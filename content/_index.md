@@ -18,7 +18,7 @@ sections:
         url: /contact
     component: content_block.html
     content: >-
-      Collectif d'intervenants transhumants dans diverses approches de l'homme
+      Collectif d'intervenants "transhumants" dans diverses approches de l'homme
       au travail en situation de management et de coopération (coaching,
       conseil, ergonomie, médiation, organisation). Le thème du management en
       réseau nous est apparu comme une clé d'entrée majeure pour
