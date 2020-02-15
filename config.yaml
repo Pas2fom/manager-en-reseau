@@ -12,7 +12,7 @@ params:
     has_nav: true
     has_social: true
     profile_img: ''
-    tagline: L'art de manager et coopérer en transverse
+    tagline: ''
     title: 'Manager et coopérer en réseau '
   layout_style: default
   palette: orange
