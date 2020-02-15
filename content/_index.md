@@ -3,8 +3,14 @@ title: Home
 sections:
   - component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Nous avons certainement tous une expérience d'un fonctionnement en réseau
+      (situation de management ou de coopération). Aujourd'hui le réseau est
+      devenu une forme d'organisation prédominante dans le monde du travail.
+      Pour les plus récentes générations, le réseau s'apparente peut-être à un
+      *élément* *naturel.* Nous cherchons ici à rassembler des synthèses utiles
+      (approches, méthodes, outils) pour tous ceux qui peuvent éprouver le
+      besoin d'enrichir leur regard et leur pratique en vue de mettre au point
+      un fonctionnement en réseau performant.
     section_id: hero
     type: heroblock
   - actions:
